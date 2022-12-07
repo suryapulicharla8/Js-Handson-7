@@ -1,0 +1,28 @@
+h1 {
+    color:brown;
+    background-color: antiquewhite;
+    text-align: center;
+}
+h2 {
+    color:blueviolet;
+    background-color: darkcyan;
+    text-align: center;
+}
+h3 {
+    color: black;
+    background-color:red;
+}
+h4 {
+    color: gold;
+    background-color: black;
+}
+pre {
+    color:blue;
+    background-color: cyan;
+}
+div {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjGAeTqR-CrjT1nLbrQe-L3GEFtdIuvDOzWyltMoFp&s");
+}
+pre:hover {
+    transform: translateX(50px);
+}
